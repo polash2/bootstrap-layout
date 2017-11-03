@@ -1,0 +1,153 @@
+@media (max-width:767px){ 
+    .header {
+    margin-bottom: 15px;
+    height: 80px;
+    background-color: #A2C7F8;
+}
+
+.brand {
+
+    min-height: 25px;
+
+    background-color: #D4E5FC;
+
+    margin: 6px 10px;
+   
+}
+
+.global-nov {
+
+
+    min-height: 20px;
+
+    background-color: #D4E5FC;
+
+    margin: 19px 10px;
+}
+
+.tools {
+
+
+    min-height: 20px;
+
+    background-color: #D4E5FC;
+
+    margin: 19px 10px;
+}
+
+.hiro {
+    background-color: #A2C7F8;
+    height: 70px;
+}
+    .hiro-call {
+
+    
+min-height: 20px;
+
+background-color: #D4E5FC;
+
+margin: 15px 15px;
+}
+
+.ad {
+    background-color: #6EA7DA;
+    height: 30px;
+    margin:0px 10px;
+
+}
+
+.body {
+    background-color: #A2C7F8;
+    height: 200px;
+}
+
+.article-feature {
+    min-height: 50px;
+    background-color: #D4E5FC;
+  
+    margin: 10px 10px;
+}
+
+.article-listing {
+     min-height: 80px;
+    background-color: #D4E5FC;
+  
+    margin: 5px 10px;
+
+}
+
+.sidebar {
+    padding: 38px 10px;
+    background-color: #A2C7F8;
+    height: 300px;
+}
+
+.footer {
+    background-color: #A2C7F8;
+    height: 30px;
+    margin:5px;
+
+}
+
+@media (min-width:768px) and (max-width: 991px) { 
+    .hiro {
+    background-color: #A2C7F8;
+    height: 151px;
+}
+
+.hiro-feature {
+
+min-height: 47px;
+
+background-color: #D4E5FC;
+
+margin: 25px 15px;
+}
+
+.hiro-call{
+
+min-height: 50px;
+
+background-color: #D4E5FC;
+
+margin: -16px 14px;
+}
+    .body {
+    background-color: #A2C7F8;
+    height: 382px;
+}
+
+.article-feature {
+    min-height: 79px;
+    background-color: #D4E5FC;
+    margin: 38px 11px;
+}
+
+.article-listing {
+     min-height: 244px;
+     background-color: #D4E5FC;
+     margin: -32px 5px;
+}
+
+.sidebar {
+    padding: 38px 10px;
+    background-color: #A2C7F8;
+    height: 99px;
+    margin-top: 4px;
+}
+
+.sidebar-feature {
+    margin: 1px -5px;
+    min-height: 53px;
+    background-color: #D4E5FC;
+}
+
+
+}
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+}
+@media (min-width: 1200px) { 
+
+
+}

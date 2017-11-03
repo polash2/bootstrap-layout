@@ -1,0 +1,110 @@
+body {
+    text-align: center;
+}
+.padding-left{
+padding-left: 0px;
+
+}
+.header {
+    margin-bottom: 15px;
+    height: 100px;
+    background-color: #A2C7F8;
+}
+
+.brand {
+
+    min-height: 60px;
+
+    background-color: #D4E5FC;
+
+    margin: 19px 10px;
+}
+
+.global-nov {
+
+
+    min-height: 60px;
+
+    background-color: #D4E5FC;
+
+    margin: 19px 10px;
+}
+
+.tools {
+
+
+    min-height: 60px;
+
+    background-color: #D4E5FC;
+
+    margin: 19px 10px;
+}
+
+.hiro {
+    background-color: #A2C7F8;
+    height: 200px;
+}
+
+.hiro-feature {
+
+min-height: 150px;
+
+background-color: #D4E5FC;
+
+margin: 25px 15px;
+}
+
+.hiro-call {
+
+    
+min-height: 150px;
+
+background-color: #D4E5FC;
+
+margin: 25px 15px;
+}
+
+.ad {
+    background-color: #6EA7DA;
+    height: 200px;
+
+}
+
+.body {
+    background-color: #A2C7F8;
+    height: 300px;
+}
+
+.article-feature {
+    min-height: 240px;
+    background-color: #D4E5FC;
+  
+    margin: 38px 10px;
+}
+
+.article-listing {
+     min-height: 240px;
+    background-color: #D4E5FC;
+  
+    margin: 38px 10px;
+
+}
+
+.sidebar {
+    padding: 38px 10px;
+    background-color: #A2C7F8;
+    height: 300px;
+}
+
+.sidebar-feature {
+    min-height: 240px;
+    background-color: #D4E5FC;
+    
+}
+
+.footer {
+    background-color: #A2C7F8;
+    height: 70px;
+    margin-top: 15px;
+
+}
